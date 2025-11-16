@@ -13,10 +13,11 @@ This project will grow from simple LED circuits to more advanced IoT-style autom
 Lesson 1 – Setting up and programming the Arduino
 Date: Nov 10, 2025  
 
+Notes:
 -  Plugged in the Arduino to my Mac for the first time!
--  Downloaded the Arduino IDE 
+-  Arduino IDE is used to send commands to the arduino.
 -  Every Arduino program has void setup() and void loop()
--  Wrote first code to turn on and off Orange Led connected to pin 13 with HIGH and LOW parameters
+-  HIGH means on and LOW means off.
 
 Summary: Arduino is a circuit board that connects to your computer. You can write code to 
 make it do different things like blinking leds. The basic ino file has a void setup function and a void loop
@@ -25,14 +26,25 @@ function. set up is to activate the pins and loop is to control the pin.
 Homework:
 -  Make pin13 LED blink as fast as possible [COMPLETED]
 
-Next: Understanding how LEDs Work.
-
 ----------------------
 
-### 🔄 Lesson 2 – Blinking an LED  
-**📅 Date:** _(Coming soon)_  
-**🧩 Summary:**  
-_(to be added after simulation)_
+Lesson 2 – Understanding how LEDs Work.
+Date: Nov 13,2025
+
+Notes: 
+-  Light bulb works by taking a wire and heating it up with voltage. 
+(Not effiecient because it generates more heat than light)
+-  Semi Conductors are important part of electronics can both conduct and insulate.
+-  N-Type when you put donor impurites in Conduction band
+-  P-Type when you put acceptor impurites in Valence band
+-  N-Type and P-Type together cause the electrons to collide and release photons with positive and Negative voltage
+-  Long leg positive voltage Short Leg negative voltage
+
+Summary: LEDs work by photons and electrictity. 
+
+
+
+
 
 ---
 
