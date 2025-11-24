@@ -29,7 +29,7 @@ Homework:
 ----------------------
 
 Lesson 2 – Understanding how LEDs Work.
-Date: Nov 13,2025
+Date: Nov 13, 2025
 
 Notes: 
 -  Light bulb works by taking a wire and heating it up with voltage. 
@@ -42,11 +42,37 @@ Notes:
 
 Summary: LEDs work by photons and electrictity. 
 
+----------------------
+
+Lesson 3 - Understanding how Breadboards work.
+Date: Nov 15, 2025
+
+Notes: 
+- Circuit diagrams 
+- Protyping board/ Breadboard - used to make circuit diagrams in a neat way.
+- Holes along column are connected | Rows are not connected | top and bottom rows are all connected
+- Built first circuit! Using LEDs, Resistors, wires and breadboard.
+
+Summary:
+Breadboards can be used to connect and create all sorts of exciting circuits!
+
+Homework:
+Control 3 different types of LEDs with the breadboard. blink red led 5 times, 
+green led 10 times and blue led 15 times. [COMPLETED]
+
+----------------------
+
+Lesson 4 - Understanding Arduino Variables
+
+Notes:
+- variables are like c++ variables.
+- variables are used to make code less complex.
+Summary:
+Variables are useful to make coding less complex incase you need to change things.
+
+Homework: Red LED 5 times fast green LED 10 times slow blue LED 15 times really slow [COMPLETED]
 
 
-
-
----
 
 ## 🧪 Mini Projects (Planned)
 - [ ] Blink an LED using Python  
