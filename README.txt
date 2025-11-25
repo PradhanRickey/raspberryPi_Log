@@ -72,6 +72,21 @@ Variables are useful to make coding less complex incase you need to change thing
 
 Homework: Red LED 5 times fast green LED 10 times slow blue LED 15 times really slow [COMPLETED]
 
+-----------------------
+
+Lesson 5 - Understanding and working with Binary Numbers
+
+Notes: 
+Recap - Semiconductors can be Conductors and Insulators. can be switched by applying voltage.
+ON = 1
+OFF = 0
+
+
+Summary: Binary is what computers use to perform calculations.
+
+Homework: Make a binary led counter.
+
+-----------------------
 
 
 ## 🧪 Mini Projects (Planned)
