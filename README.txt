@@ -88,6 +88,9 @@ Homework: Make a binary led counter.
 
 -----------------------
 
+Lesson 6 - binary counter follow along
+HW - create 5 bit binary counter
+
 
 ## 🧪 Mini Projects (Planned)
 - [ ] Blink an LED using Python  
