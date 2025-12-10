@@ -92,6 +92,19 @@ Lesson 6 - binary counter follow along
 HW - create 5 bit binary counter
 
 
+Lesson 7 - Understanding analog Write Command
+
+Notes:
+- Analog Write command only works on the pins with the ~ symbol
+- For analog write instead of high and low you put values between 0 and 255
+- 0 = 0 volts & 250 = 5 volts
+
+
+Summary:
+
+Homework:
+
+
 ## 🧪 Mini Projects (Planned)
 - [ ] Blink an LED using Python  
 - [ ] Toggle LED with a button  
